@@ -5,9 +5,23 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+/* Top Section */
+.top-section{
+
+}
 h1{
     font-size: 50px;
 }
 .header-color{
     color: orange;
 }
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+/* Top Section  */
