@@ -41,5 +41,8 @@ h1{
 /* hero-area */
 .hero-area{
     padding: 100px 0px;
+    background: url(../img/bg.png) no-repeat right bottom;
+    overflow: hidden;
+    
 }
 /* hero-area */
