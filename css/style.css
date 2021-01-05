@@ -46,3 +46,25 @@ h1{
     
 }
 /* hero-area */
+.experiences-area{
+    background: url(../img/exp.png) no-repeat;
+    background-position: left;
+    overflow: hidden;
+    padding: 100px 0px;
+    background-color: #fff;
+}
+.common-css{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+#full-stact{
+border-left: 7px solid;
+border-image:  linear-gradient(45deg, salmon, tomato);
+border-image-slice: 1;
+}
+#full{
+    border-left: 7px solid;
+    border-image:  linear-gradient(45deg, blue, cyan);
+    border-image-slice: 1;
+}
