@@ -1,0 +1,13 @@
+/* Goole Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+ /* Global CSS */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.header-color{
+    color: orange;
+}
